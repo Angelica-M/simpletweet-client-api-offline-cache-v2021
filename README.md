@@ -4,7 +4,7 @@
 
 Time spent: **6** hours spent in total
 
-## Learning Attainment & Objectives
+## Topics Demonstrated
 
 ### Network Integration & Protocol Compliance
 * **rest-api-integration** — Programmatically connected a native application client to a remote third-party RESTful architecture.
